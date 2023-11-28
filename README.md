@@ -4,6 +4,6 @@
 1. Clona el repositorio: https://github.com/Marioafh/GameBalancer.git
 2. Abre el archivo proyectopoo.html en tu navegador. Abre el archivo proyectopoo.html en tu navegador.
 # Autores
-1. Jose Alejandro Bermudez Jimenez
-2. Mario Andrés Fuentes Hernández
-3. Juan Pablo Tatis Aguilar 
+1. Jose Alejandro Bermudez Jimenez (jbermudez14)
+2. Mario Andrés Fuentes Hernández (Marioafh)
+3. Juan Pablo Tatis Aguilar (jptatis)
